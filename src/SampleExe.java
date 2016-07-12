@@ -6,9 +6,9 @@ public class SampleExe{
 		Animal a2 = new Dog();
 		Animal a3 = new Cat();
 
-		a1.speek();	// ãŒãŠãƒ¼
-		a2.speek();	// ã‚ã‚“
-		a3.speek();	// ã«ã‚ƒãƒ¼
+		a1.speek();	// ‚ª‚¨[
+		a2.speek();	// ‚í‚ñ
+		a3.speek();	// ‚É‚á[
 	}
 }
 
